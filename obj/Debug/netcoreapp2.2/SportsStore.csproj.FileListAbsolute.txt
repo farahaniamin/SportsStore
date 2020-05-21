@@ -10,8 +10,6 @@ C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\S
 C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\SportsStore.RazorTargetAssemblyInfo.cs
 C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\SportsStore.dll
 C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\obj\Debug\netcoreapp2.2\SportsStore.pdb
-C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
 C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\bin\Debug\netcoreapp2.2\SportsStore.deps.json
 C:\Users\FARAHANI\source\repos\SportsStore\SportsStore\bin\Debug\netcoreapp2.2\SportsStore.runtimeconfig.json
