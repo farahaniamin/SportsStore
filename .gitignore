@@ -361,3 +361,6 @@ FodyWeavers.xsd
 
 #appsetting
 **/appsettings.json
+
+#skipstatic file
+**/wwwroot/lib
